@@ -45,4 +45,5 @@ button:hover {
 .muted {
   color: #666;
   font-size: 0.9em;
+  margin-bottom: 5px;
 }
