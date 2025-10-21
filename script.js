@@ -53,11 +53,10 @@ searchBtn.addEventListener("click", (e) => {
         `
     })
     .catch(() => {
-      result.innerHTML = `<p>Something went wrong.</p>`;
+      result.innerHTML = `<h2>Sorry! There is no such word</h2>`;
     });
 
 } )
-
 
 wordInput.addEventListener("keypress", function(e) {
   if (e.key === "Enter") {
