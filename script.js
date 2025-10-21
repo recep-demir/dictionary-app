@@ -4,7 +4,7 @@ const result = document.getElementById('result');
 
 searchBtn.addEventListener("click", (e) => {
     e.preventDefault();
-    const word = wordInput.value.trim()
+    const word = wordInput.value
 
     if(word === ''){
         result.innerHTML=`
