@@ -45,8 +45,6 @@ searchBtn.addEventListener("click", (e) => {
       : ""}
 
 
-
-
         </div>
         `).join("")}
 
