@@ -3,6 +3,10 @@
 This is a simple **Dictionary App** built with **HTML**, **CSS**, and **JavaScript**.  
 It uses the free API from [dictionaryapi.dev](https://dictionaryapi.dev/) to show word meanings, examples, and synonyms.
 
+## 🌐 Website
+[https://recep-demir.github.io/dictionary-app/](https://recep-demir.github.io/dictionary-app/)
+
+
 ## 📸 Screenshot
 ![App Screenshot](./img/screenshot.png)
 
